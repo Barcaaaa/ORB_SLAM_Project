@@ -1,0 +1,9 @@
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/ORB_SLAM2.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/bin_vocabulary.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/mono_euroc.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/mono_kitti.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/mono_tum.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/rgbd_LIPS.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/rgbd_tum.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/stereo_euroc.dir
+/home/wuyao818/SLAM/Project/ORB-SLAM/build/CMakeFiles/stereo_kitti.dir

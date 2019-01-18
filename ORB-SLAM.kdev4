@@ -1,0 +1,4 @@
+[Project]
+Name=ORB-SLAM
+Manager=KDevCMakeManager
+VersionControl=
